@@ -6,4 +6,4 @@ The Digital Book contains the folder simple Linear Regression which has a notebo
 
 The Digital Book contains the folder Logistic Regression which has notebook *Logistic Regression or Classification.ipynb* notebook which explains **Logistic Regression** from scratch along with theory and Python code.
 
-The Digital Book contains the folder Linear Regression With multiple variables that have notebook *Linear Regression With Multiple Variable .ipynb* notebook which explains **Linear Regression With Multiple Variable** from scratch along with theory and Python code.
+The Digital Book contains the folder Linear Regression With Multiple Variables that have notebook *Linear Regression With Multiple Variable .ipynb* notebook which explains **Linear Regression With Multiple Variable** from scratch along with theory and Python code.
