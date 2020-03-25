@@ -1,5 +1,5 @@
 # Machine-Learning-Digital-Book-
-<<<<<<< HEAD
+
 This notebook is made to understand the Machine learning concepts from the basic level. 
 
 The Digital Book contains the folder simple Linear Regression which has a notebook *Simple Linear Regression.ipynb* that describes **simple Linear Regression** from scratch along with theory and Python code.
