@@ -19,3 +19,12 @@ The Book contains the folder Naive Bayes Classification which has notebook *Naiv
 This book has folder Prerequisites for SVM which has notebook *Prerequisites for SVM-Support Vector Machine .ipynb* where  chapter we will try to clear some fundamental idea how the machine learning problem is evolved by diving deep into mathematics but not that deep,but yes up to the level where we get the intuition.**While going through the theory of this we touch at last the VC-dimension and Perceptron learning related to SVM and its limitation.** Definitely in the chapter on neural network we will learn more about the Perceptron.
 
 The book has folder The Perceptron which has notebook *The Perceptron .ipynb* where we move one more step ahead to understand the SVM, this chapter again is **Prerequisites for SVM-Support Vector Machine.** The **PLA** i.e Perceptron Learning Algorithm is explained with mathematics and then implemented in python. In this chapter, we are also taking one step to **Neural Network**.             
+
+The book has folder SVM-SVM-(Support Vector Machines ) which has notebook *The SVM Optimization Problem.ipynb* where you will learn what is **Support Vector Machines** in depth. You will get to know about the concept of the ** Hard Margin**.
+
+The upcoming chapter is: 
+
+SVM-Soft Margin Classifier and kernels.
+PCM-Principal Component analysis.
+Neural Network and Back-propagation algorithm. 
+
