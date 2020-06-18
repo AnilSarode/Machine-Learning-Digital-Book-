@@ -20,11 +20,14 @@ This book has folder Prerequisites for SVM which has notebook *Prerequisites for
 
 The book has folder The Perceptron which has notebook *The Perceptron .ipynb* where we move one more step ahead to understand the SVM, this chapter again is **Prerequisites for SVM-Support Vector Machine.** The **PLA** i.e Perceptron Learning Algorithm is explained with mathematics and then implemented in python. In this chapter, we are also taking one step to **Neural Network**.             
 
-The book has folder SVM-SVM-(Support Vector Machines ) which has notebook *The SVM Optimization Problem.ipynb* where you will learn what is **Support Vector Machines** in depth. You will get to know about the concept of the **Hard Margin**.
+The book has folder SVM-(Support Vector Machines ) which has notebook *The SVM Optimization Problem.ipynb* where you will learn what is **Support Vector Machines** in depth. You will get to know about the concept of the **Hard Margin**.
+
+The book has folder Soft Margin SVM-and Kernels which has notebook *Soft Margin SVM and Kernels.ipynb* where we are continuing the SVM. You will get to know about the concept of the **Soft Margin** & Different **Kernels**.
+
+
 
 The upcoming chapter is: 
 
-**SVM-Soft Margin Classifier and kernels.**
 
 **PCM-Principal Component analysis.**
 
